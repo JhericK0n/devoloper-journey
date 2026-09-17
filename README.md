@@ -24,3 +24,13 @@ The introduction of Git/GitHub is in progress
 ## Current Studies
 
 - Git and GitHub
+
+## Git Skills
+
+- Repository initialization
+- Staging
+- Commits
+- Remote repositories
+- Push
+- Fetch
+- Pull
