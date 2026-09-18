@@ -43,4 +43,4 @@ The introduction of Git/GitHub is in progress
 
 ## Repository Structure
 
-This repository contains my software development studies and portfolio projects.
+This repository documents my software development studies, practical exercises and portfolio projects.
