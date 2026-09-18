@@ -2,9 +2,11 @@
 
 Hello! My name is Heric; I’m an electrical engineer, I’m learning programming, and this is my repository... welcome!
 
+
 ## Objetives
 
 This is my principal objetives to learning:
+
 
 ## Roadmap
 
@@ -17,13 +19,16 @@ This is my principal objetives to learning:
 - [ ] Projeto integrado
 - [ ] Portfólio
 
+
 ## Progress
 
 The introduction of Git/GitHub is in progress
 
+
 ## Current Studies
 
 - Git and GitHub
+
 
 ## Git Skills
 
@@ -34,3 +39,8 @@ The introduction of Git/GitHub is in progress
 - Push
 - Fetch
 - Pull
+
+
+## Repository Structure
+
+This repository contains study notes, exercises and practical projects developed throughout my programming studies.
