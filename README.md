@@ -49,3 +49,9 @@ This repository documents my software development studies, practical exercises a
 ## Projects
 
 This repository will include practical projects developed during my programming studies.
+
+## Contact
+
+GitHub profile and portfolio links will be added here.
+
+https://github.com/JhericK0n
